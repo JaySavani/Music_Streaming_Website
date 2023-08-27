@@ -14,7 +14,9 @@ Hear your favourite music anytime!
 ![Album1](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Album1.png)
 * Album2 
 ![Album2](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Album2.png)
-* Playlist 
-![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist.png)
+* Playlist1 
+![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist1.png)
+* Playlist2
+![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist2.png)
 * Profile 
 ![Profile](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/profile.png)

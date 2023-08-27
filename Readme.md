@@ -1,28 +1,40 @@
-Music Store Site
+# Slotify
+Hear your favourite music anytime!
+Slotify is an online music player like Spotify, built using HTML, CSS, JavaScript, PHP, and MySQL. It provides various features for users to manage and play their music library.
 
-A music store website custom built from the ground up with HTML, CSS, PHP, JavaScript, and Ajax. Utilization of MySql database to store values.
+## Software Needed
+* A Text Editor (Sublime Text,Vs Code,etc)
+* Localhost (XAMPP,WAMPP,etc)
 
+ ## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Mysql
+- jQuery
+- AJAX
+- server : XAMPP
+  
+## Features
+- User registration and authentication: Users can create accounts, log in, and manage their profiles.
+- Search and browse: Users can search for songs, albums, and artists, and explore different genres.
+- Music playback: Users can play, pause, skip, and control the volume of the music.
+- Playlists: Users can create custom playlists.
 
-Functionality:
+## Project Screenshots
+* Register Page
+![Register Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Register.png)
+* Main Page 
+![Main Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/main1.png)
+* Album1
+![Album1](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Album1.png)
+* Album2 
+![Album2](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Album2.png)
+* Playlist1 
+![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist1.png)
+* Playlist2
+![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist2.png)
+* Profile 
+![Profile](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/profile.png)
 
-1. Login/ Signup.
-2. Search for favourite tracks, artists, albums etc.
-3. Create and customize playlists.
-4. Control the music with usual controls such as play, pause, skip, shuffle, repeat etc.
-5. Adjust volume using volume bar.
-6. Update user details / Logout.
-
-
-
-Languages/Skills used:
-1. HTML5
-2. CSS3
-3. JavaScript
-4. PHP
-5. MYSQL
-6. AJAX
-7. jQuery
-8. JSON
-
-
-Developed by: Namra Joshi,Meet Virani,Jay Savani

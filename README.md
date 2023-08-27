@@ -7,9 +7,9 @@ Hear your favourite music anytime!
 
 ## Project Screenshots
 * Register Page
-![Register Page](https://github.com/ashishlakhani04/Slotify/blob/master/assets/Screenshots/Register.png)
+![Register Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Register.png)
 * Main Page 
-![Main Page](https://github.com/ashishlakhani04/Slotify/blob/master/assets/Screenshots/MainPage.png)
+![Main Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/main.png)
 * Album1
 ![Album1](https://github.com/ashishlakhani04/Slotify/blob/master/assets/Screenshots/Album1.png)
 * Album2 

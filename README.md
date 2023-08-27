@@ -9,7 +9,7 @@ Slotify is an online music player like Spotify, built using HTML, CSS, JavaScrip
 - Music playback: Users can play, pause, skip, and control the volume of the music.
 - Playlists: Users can create custom playlists.
   
-##### Software Needed
+## Software Needed
 * A Text Editor (Sublime Text,Vs Code,etc)
 * Localhost (XAMPP,WAMPP,etc)
 

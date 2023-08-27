@@ -14,3 +14,7 @@ Hear your favourite music anytime!
 ![Album1](https://github.com/ashishlakhani04/Slotify/blob/master/assets/Screenshots/Album1.png)
 * Album2 
 ![Album2](https://github.com/ashishlakhani04/Slotify/blob/master/assets/Screenshots/Album2.png)
+* Playlist 
+![Playlist](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/playlist.png)
+* Profile 
+![Profile](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/profile.png)

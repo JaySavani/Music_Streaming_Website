@@ -26,7 +26,7 @@ Slotify is an online music player like Spotify, built using HTML, CSS, JavaScrip
 * Register Page
 ![Register Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Register.png)
 * Main Page 
-![Main Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/main.png)
+![Main Page](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/main1.png)
 * Album1
 ![Album1](https://github.com/JaySavani/Music_Streaming_Website/blob/main/assets/SS/Album1.png)
 * Album2 
